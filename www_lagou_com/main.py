@@ -36,10 +36,10 @@ global_cookies = {
     # - 经过测试主要是以下三个 cookie 起作用，能保持登录：login、gate_login_token、_putrc
     # - 还有一个 JSESSIONID 值，主要是用来获取请求头 x-anit-forge-code 和 x-anit-forge-token
 
-    # "login": "true",
-    # "gate_login_token": "",
-    # "_putrc": "",
-    # "JSESSIONID": ""
+    "login": "true",
+    "gate_login_token": "v1####01f2bdb7f809f71a823c6b0fe776177dab5a248589401a7a",
+    "_putrc": "220CA83E48FC75CB",
+    "JSESSIONID": "ABAABJAACBHABBBF948AABA14312405AD175DC9CA521C12"
 }
 
 
